@@ -1,6 +1,6 @@
 # gate_practice_website
 
-I have created a responsive website that contains all the information about GATE, including duration, marking system, and subject-wise classification.
+I have created a responsive website that contains all the information about GATE as per year 2023, including duration, marking system, and subject-wise classification.
 
 We have compiled all of the previous year's GATE CSE question papers and created this website so that you can solve the entire previous year's exam papers with the correct marking scheme and time limit.
 
